@@ -1,11 +1,11 @@
 import './App.css';
-import GetData from './GetData';
+import Room from './Room'
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <GetData/>
+        <Room/>
       </header>
     </div>
   );
